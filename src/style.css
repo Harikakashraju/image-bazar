@@ -1,0 +1,27 @@
+.img{
+    padding: 20px;
+    display: inline;
+    justify-self:center;
+    margin: auto;
+}
+
+input{
+    padding: 10px;
+    border: 1px solid gray;
+    border-radius: 4px;
+}
+button{
+    padding: 10px;
+    border: none;
+    border-radius: 4px; 
+    color: white;
+    background-color: blue;
+    font-size: 15px;
+}
+
+.input{
+    padding: 20px;
+    display: flex ;
+    justify-content: center;
+    gap: 20px;
+}
